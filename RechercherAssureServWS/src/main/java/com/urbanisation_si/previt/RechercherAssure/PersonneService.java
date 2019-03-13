@@ -2,6 +2,11 @@ package com.urbanisation_si.previt.RechercherAssure;
 
 import java.util.List;
 
+/**
+ * 
+ * @author Patrice
+ *
+ */
 public interface PersonneService {
 
 	public void ajouterPersonne(Personne e);

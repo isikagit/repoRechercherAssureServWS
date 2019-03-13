@@ -7,6 +7,11 @@ import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.orm.hibernate5.HibernateTemplate;
 
+/**
+ * 
+ * @author Patrice
+ *
+ */
 public class PersonneDaoTemplate {
 	private HibernateTemplate template;   
 	

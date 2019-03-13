@@ -4,6 +4,11 @@ import java.util.List;
 
 import javax.jws.WebService;
 
+/**
+ * 
+ * @author Patrice
+ *
+ */
 @WebService(
 	    endpointInterface = "com.urbanisation_si.previt.RechercherAssure.PersonneWS",
 	    serviceName = "personneWS")

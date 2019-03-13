@@ -10,6 +10,11 @@ import org.hibernate.SessionFactory;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
+/**
+ * 
+ * @author Patrice
+ *
+ */
 @Repository("personneDao")
 @Transactional
 public class PersonneDaoImpl implements PersonneDao {

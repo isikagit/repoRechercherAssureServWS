@@ -16,7 +16,8 @@ import org.apache.commons.lang3.builder.EqualsBuilder;
 import org.hibernate.annotations.GenericGenerator;
 
 /**
- * @author Naël
+ * 
+ * @author Patrice
  *
  */
 @Entity

@@ -8,6 +8,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
+/**
+ * 
+ * @author Patrice
+ *
+ */
 @Component
 @Scope
 public class PersonneBean {
